@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObjectController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ObjectController.cs" Line="47" Column="14" />
+      <File FileName="Assets/Scripts/OutputSystem.cs" Line="67" Column="25" />
+      <File FileName="../Space Shooter/Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OptiTrack.cs" Line="60" Column="68" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="112" Column="29" />
+      <File FileName="Assets/Scripts/TriggerController.cs" Line="56" Column="3" />
+      <File FileName="Assets/Scripts/DataTransmission/OptiTrackManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RotationTriggerController.cs" Line="63" Column="3" />
+      <File FileName="Assets/Scripts/DrillBitController.cs" Line="7" Column="2" />
+      <File FileName="../Space Shooter/Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DrillCombinationController.cs" Line="38" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
